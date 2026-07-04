@@ -1,0 +1,19 @@
+body {
+  background-color: grey
+}
+
+.Judul {
+  text-align: center;
+}
+
+.ContainerGambar {
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+ gap: 15px
+}
+
+.ContainerGambar img {
+  weight: 160px;
+  height: 175px;
+}
